@@ -64,7 +64,7 @@ if st.session_state.page == 'home':
 
     with col2:
         # Placeholder imag
-        st.image(r"C:\COLLAGE\4TH YEAR\8TH_SEM\MAJOR PROJECT\TRYOUT 2\ML Project\medical landing image.avif", use_container_width=True)
+        st.image(r"image/medical landing image.avif", use_container_width=True)
 
     st.divider()
     st.subheader("Available Services")
