@@ -185,7 +185,7 @@ acol1, acol2 = st.columns([1, 1])
 
 with acol1: 
     
-      st.image(r"C:\COLLAGE\4TH YEAR\8TH_SEM\MAJOR PROJECT\TRYOUT 2\ML Project\medical appointment image.avif", use_container_width=True)
+      st.image(r"image/medical appointment image.avif", use_container_width=True)
 
 with acol2:
        # tagline
