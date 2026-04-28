@@ -207,8 +207,8 @@ st.markdown(f"""
     width: 40%;
     margin-left: 55%;
     position: absolute;
-    bottom:50px;
-    padding: -15px;
+    bottom:-15px;
+    padding: 10px;
     text-align: center;
     border-radius: 10px;
     background: linear-gradient(90deg, #4f46e5, #9333ea, #ec4899);
